@@ -39,7 +39,7 @@ const theWinner = giveawayWinner();
 
 
 
-## Support
+## ✨ Support
 [Saweria](https://saweria.com/gnwncpta)
 
 
