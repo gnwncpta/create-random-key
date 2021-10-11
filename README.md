@@ -39,3 +39,7 @@ const theWinner = giveawayWinner();
 
 
 Author [@gnwncpta](http://github.com/gnwncpta/)
+
+
+### Support me on Saweria
+[Saweria](https://saweria.com/gnwncpta)
