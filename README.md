@@ -37,7 +37,9 @@ const theWinner = giveawayWinner();
 // E.g result => 'webster' 
 ```
 
-
+## 👥 Social
+[Instagram](https://instagram.com/coocaainne)
+[Discord](https://discordapp.com/users/396307600347627520/)
 
 ## ✨ Support
 [Saweria](https://saweria.com/gnwncpta)
