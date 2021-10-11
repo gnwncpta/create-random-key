@@ -2,12 +2,12 @@
 <p>Create random key for your app.<br/>
 Are you don't want to repeating the same thing anymore ? Like ... creating random key to get random data from an array ? <br/>Try this package :)</p>
 
-## ℹ️ Installation
+## 📌 Installation
 ```bash
 npm i createrandomkey 
 ```
 
-## ✅ Usage
+## 🔰 Usage
 ```javascript
 const createRandomKey = require('createrandomkey');
 
