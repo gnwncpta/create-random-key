@@ -3,7 +3,9 @@
 Are you don't want to repeating the same thing anymore ? Like ... creating random key to get random data from an array ? Try this package :)</p>
 
 ### ℹ️ Installation
-``` npm i createrandomkey ```
+```bash
+npm i createrandomkey 
+```
 
 ### ✅ Usage
 ```javascript
