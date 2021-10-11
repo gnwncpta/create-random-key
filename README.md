@@ -19,10 +19,11 @@ const key = createRandomKey({ max: 100 });
 const key = createRandomKey();
 // return -> 10 / 3 / 7
 
+// (key is 2)
 const winner = ['justin', 'kendrick', 'webster', 'travis', 'don'];
-winner[key]
+return winner[key]
 
-// 
+// result => 'webster' 
 ```
 
 
