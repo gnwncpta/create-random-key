@@ -13,11 +13,11 @@ const createRandomKey = require('createrandomkey');
 
 // With max value
 const key = createRandomKey({ max: 100 });
-// return -> 96 / 37 / 80
+// return -> 96 / 37 / 80 / 0
 
 // Without max value (default value 10)
 const key = createRandomKey();
-// return -> 10 / 3 / 7
+// return -> 10 / 3 / 0 / 7
 
 
 
