@@ -1,5 +1,5 @@
 {
-  "name": "createrandomkey",
+  "name": "create-random-key",
   "version": "1.0.0",
   "description": "Create random key for your app to make randomize data",
   "main": "app.js",
