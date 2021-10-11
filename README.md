@@ -38,11 +38,11 @@ const theWinner = giveawayWinner();
 ```
 
 ## 👥 Social
-[Instagram](https://instagram.com/coocaainne)
-[Discord](https://discordapp.com/users/396307600347627520/)
+- [Instagram](https://instagram.com/coocaainne)
+- [Discord](https://discordapp.com/users/396307600347627520/)
 
 ## ✨ Support
-[Saweria](https://saweria.com/gnwncpta)
+- [Saweria](https://saweria.com/gnwncpta)
 
 
 Author [@gnwncpta](http://github.com/gnwncpta/)
