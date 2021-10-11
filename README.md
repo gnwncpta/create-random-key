@@ -19,11 +19,18 @@ const key = createRandomKey({ max: 100 });
 const key = createRandomKey();
 // return -> 10 / 3 / 7
 
-// (key is 2)
-const winner = ['justin', 'kendrick', 'webster', 'travis', 'don'];
-return winner[key]
 
-// result => 'webster' 
+
+// Example:
+
+function giveawayWinner(){
+    const key = createRandomKey({ max: 4 });
+    const winner = ['justin', 'kendrick', 'webster', 'travis', 'don'];
+    return winner[key]
+}
+
+const theWinner = giveawayWinner();
+// E.g result => 'webster' 
 ```
 
 
